@@ -5,11 +5,11 @@
  
 I didn't have Illustrator in the school computers I was working on to make this website today, so I opted instead to make hasty pixel for the website logo.
  
-It's been a while since I've made a pixel graphic.. more like a decade. In my heydey as a 10-year-old playing Neopets, I used to enjoy making pixels for fun.
+It's been a while since I've made a pixel graphic.. more like a decade. In my heydey as a 10-year-old playing Neopets, I used to enjoy making pixels for fun, was a part of a pixeling/scribbling (another art-style) guild, and had quite a good opinion of my pixeling ability.
  
-I imagine I was more skilled back then, but as an amateur nonetheless my method remains fundamentally the same. (Meaning, I resort to overlaying my canvas on a reference photo so I can trace it if needed. 😙)
+I imagine I was more skilled back then, but as an amateur my method nonetheless remains fundamentally the same. (Meaning, I resort to overlaying my canvas on a reference photo so I can trace it if needed. 😙)
  
-Here is the reference image I used this time: 
+Here is the reference image I used this time:  
 ![reference photo for jellycube logo](https://beginningmiddleandtheedge.files.wordpress.com/2012/09/jelly-cubes.jpg)
  
 I like to give credit where possible, so I'd like to share that it came from [this page](https://beginningmiddleandtheedge.com/2012/09/19/jelly-on-the-plate-wibble-wobble-jelly-on-the-plate/), but I'm not confident the author is the original owner of this photo, either.
