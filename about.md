@@ -6,11 +6,11 @@ permalink: /about/
 
 I'm a recent graduate of Scripps College, a tiny liberal arts women's college, and am pursuing a career in software engineering by attending the first batch of [Holberton School](https://www.holbertonschool.com/), located in San Francisco, CA. 
 
-I like to make things, including but not limited to the activities of crochet, ceramics, batik scarf-dying, and coding. I also enjoy watching Cry Plays and cooking recipe videos on youtube, and want to learn lots of languages! Lastly, but not leastly, I spend a lot of time feeling complicated about politics and my affinity for social justice. V●ᴥ●V
+I like to make things, including but not limited to the activities of crochet, ceramics, batik scarf-dying, and coding. I also enjoy watching Cry Plays and Asian recipe videos on youtube, and want to learn lots of languages! Lastly, but not leastly, I spend a lot of time feeling complicated about politics and my affinity for social justice. V●ᴥ●V
 
 ### I'm a fan of these story-telling mediums:
 
-Some favorites listed because I can't resist.
+Some favorites listed because I can't resist!
 
 * sci-fi/fantasy  (Tamora Pierce, Howard L. Myers, David Weber)
 * graphic novels
