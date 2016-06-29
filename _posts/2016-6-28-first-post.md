@@ -7,7 +7,7 @@ I've been noodling on starting a personal website for a while, to display my pro
 
 Actually, I've wanted to have a personal website/blog for years, but I always felt a compulsion to code it from scratch-- as if I wouldn't feel total ownership if I used a content management system like Wordpress. Since starting my adventures as a programmer, I've come to read about Jekyll here and there, and to become intrigued by it. I thought it would be a nice, lightweight compromise. 
 
-It was easy to start from forking Barry Clark's [jekyll-now](https://github.com/barryclark/jekyll-now) github repository. So far I've only modified the logo (based on this [image](https://beginningmiddleandtheedge.files.wordpress.com/2012/09/jelly-cubes.jpg) and some of the text. I have a lot on my agenda:
+It was easy to start from forking Barry Clark's [jekyll-now](https://github.com/barryclark/jekyll-now) github repository. So far I've only modified the logo and some of the text. I have a lot on my agenda:
 
 * Creating a custom Jekyll theme
 * Creating separate pages: devlog (hopefully where this would be featured as the first post), about, personal blog, resume, and linking to projects
