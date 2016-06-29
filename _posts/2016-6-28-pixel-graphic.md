@@ -5,7 +5,7 @@
  
 I didn't have Illustrator on the school computers I was using to make this website today, so I opted instead to make a hasty pixel graphic for the website logo.
  
-It's been a while since I've made a pixel graphic.. more like a decade! In my heydey as a 10-year-old playing Neopets, I used to enjoy making pixels for fun, was even a part of a pixeling/scribbling[1](#---) guild, and had quite a good opinion of my pixeling ability.
+It's been a while since I've made a pixel graphic.. more like a decade! In my heydey as a 10-year-old playing Neopets, I used to enjoy making pixels for fun, was even a part of a pixeling/scribbling<sup>[1](#---)</sup> guild, and had quite a good opinion of my pixeling ability.
  
 I imagine I was more skilled back then, but as an amateur my method nonetheless remains fundamentally the same. (Meaning, I resort to overlaying my canvas on a reference photo so I can trace it if needed. 😙)
  
