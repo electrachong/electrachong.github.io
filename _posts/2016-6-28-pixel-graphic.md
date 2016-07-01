@@ -1,6 +1,7 @@
 ---
  layout: post
  title: My first pixel graphic in a decade
+ excerpt: I didn't have Illustrator on the school computers I was using to make this website today, so I opted instead to make a hasty pixel graphic for the website logo.
 ---
  
 I didn't have Illustrator on the school computers I was using to make this website today, so I opted instead to make a hasty pixel graphic for the website logo.
