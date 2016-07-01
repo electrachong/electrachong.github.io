@@ -1,6 +1,6 @@
 ---
 layout: page
-title: blog
+seciton: blog
 permalink: /blog/
 ---
 
