@@ -4,6 +4,11 @@ section: about
 permalink: /about/
 ---
 
+## About
+This is the personal website of Electra Chong.
+
+## About me
+
 I'm a recent graduate of Scripps College, a tiny liberal arts women's college, and am pursuing a career in software engineering by attending the first batch of [Holberton School](https://www.holbertonschool.com/), located in San Francisco, CA. 
 
 I like to make things, including but not limited to the activities of crochet, ceramics, batik scarf-dying, and coding. I also enjoy watching Cry Plays and Asian recipe videos on youtube, and want to learn lots of languages! Lastly, but not leastly, I spend a lot of time feeling complicated about politics and my affinity for social justice. V●ᴥ●V
