@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $white;
+  background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -46,6 +46,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
+  display: inline-block;
   a {
     color: inherit;
   }
@@ -190,6 +191,7 @@ img {
     float: none;
     display: block;
     margin: 0 auto;
+    margin-bottom: 50px;
   }
 }
 
