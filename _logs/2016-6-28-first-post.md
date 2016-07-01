@@ -1,6 +1,6 @@
 ---
 layout: post
-section: logs
+section: devlog
 title: Greetings!
 ---
 
