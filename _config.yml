@@ -20,7 +20,9 @@ avatar: https://github.com/electrachong/electrachong.github.io/blob/master/image
 #
 
 collections:
-- logs
+  logs:
+    output: true
+
 
 # Includes an icon in the footer for each username you enter
 footer-links:
