@@ -12,8 +12,15 @@ description: A personal website made by Electra Chong
 avatar: https://github.com/electrachong/electrachong.github.io/blob/master/images/jellycube-wip.gif?raw=true
 
 #
+# Custom-defined collections
+#
+
+#
 # Flags below are optional
 #
+
+collections:
+- logs
 
 # Includes an icon in the footer for each username you enter
 footer-links:
