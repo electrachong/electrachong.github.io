@@ -51,7 +51,7 @@ h1 {
   font-size: 30px;
   display: inline-block;
   a {
-    color: inherit;
+    color: $pink;
   }
 }
 
@@ -76,11 +76,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $pink;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $pink;
   }
 }
 
@@ -239,7 +239,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: $pink;
     }
   }
 }
