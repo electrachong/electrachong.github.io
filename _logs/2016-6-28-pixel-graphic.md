@@ -18,7 +18,7 @@ I like to give credit where possible, so I'd like to share that it came from [th
  
 I used a neat little online pixel sprite editor, called [Piskel](http://www.piskelapp.com/), that a classmate showed me. (Thanks Steven!)
  
-![screenshot of logo being edited in Piskel](https://github.com/electrachong/electrachong.github.io/blob/master/images/2016-6-28-pixel-graphic/screenshot.png?raw=true)
+![screenshot of logo being edited in Piskel](https://raw.githubusercontent.com/electrachong/electrachong.github.io/master/images/2016-6-28-pixel-graphic/screenshot.png)
  
 In this case, I didn't want to trace it painstakingly pixel-by-pixel, so I approximated the areas of color and their shades hazaphardly, hoping they would come together with some fiddling. For now, I think it's passable, if rudimentary. 😊
 
