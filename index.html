@@ -7,7 +7,7 @@ section: devlog
   {% for log in site.logs %}
     <article class="post">
 
-      <h2>{{ log.date | date: "%B %e, %Y" }} <a href="{{ site.baseurl }}{{ log.url }}">{{ log.title }}</a></h1>
+      {{ log.date | date: "%B %e, %Y" }} - <h2><a href="{{ site.baseurl }}{{ log.url }}">{{ log.title }}</a></h2>
 
     </article>
   {% endfor %}
