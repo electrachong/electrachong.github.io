@@ -2,11 +2,13 @@
 layout: default
 ---
 
+<h1>devlog</h1>
+
 <div class="posts">
   {% for log in site.logs %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ log.title }}</a></h1>
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ log.title }}</a></h1>
 
       <div class="entry">
         {{ log.excerpt }}
