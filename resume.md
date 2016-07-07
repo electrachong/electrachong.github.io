@@ -7,6 +7,7 @@ permalink: /resume/
 # Electra Chong
 **Full-stack Software Engineer**
 Email: electrachong [at] gmail   
+
 Twitter: [@electra_chong](https://twitter.com/electra_chong) &#x2666; LinkedIn:
 [electrachong](https://www.linkedin.com/in/electrachong) &#x2666; Github: [electrachong](https://github.com/electrachong)
 
@@ -32,6 +33,7 @@ Familiar with: Javascript, NodeJS, Swift, Go, Ruby, SEO, MVC, Flask, Docker, Ker
 
 ## Experience
 August 2015 - January 2016
+
 **Scripps College, Claremont, CA** - *Residential Networking / User Support Specialist*
 
 - Train 30 student employees to connect 200+ laptops and devices of incoming students to campus network and software installations during New Student Orientation
