@@ -22,4 +22,4 @@ So far I've worked on C functions to create a new hashtable and to add a new ele
 
 2) One of the tasks was to make sure if the key provided has already been stored in our array of linked lists that we would replace the value with the new one. I was trying to do this by checking `if (current_node->key == key)`, but [you can't really compare strings like that](http://stackoverflow.com/questions/8004237/how-do-i-properly-compare-strings-in-c) in C. We had built strcmp or strncmp ourselves before but that hadn't really clicked for me. I ended up building an is_identical function instead since I'm not really concerned about anything beyond whether the functions or identical (return 1) or not (return 0).
 
-The code I've written for hashtables is viewable here: https://github.com/electrachong/holbertonschool-low_level_programming/tree/master/hash_tables
+The code I've written for hashtables is viewable here: [https://github.com/electrachong/holbertonschool-low_level_programming/tree/master/hash_tables](https://github.com/electrachong/holbertonschool-low_level_programming/tree/master/hash_tables)
