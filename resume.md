@@ -6,6 +6,7 @@ permalink: /resume/
 
 # Electra Chong
 **Full-stack Software Engineer**
+
 Email: electrachong [at] gmail   
 
 Twitter: [@electra_chong](https://twitter.com/electra_chong) &#x2666; LinkedIn:
@@ -13,9 +14,11 @@ Twitter: [@electra_chong](https://twitter.com/electra_chong) &#x2666; LinkedIn:
 
 ## Education
 January 2016 - Current
+
 **Holberton School, San Francisco, CA** - *Full-stack Software Engineering*
 
 August 2011 - July 2016
+
 **Scripps College, Claremont, CA** - *Linguistics, B.A.*
 
 ## Projects
