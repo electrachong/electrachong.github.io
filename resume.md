@@ -6,12 +6,9 @@ permalink: /resume/
 
 # Electra Chong
 **Full-stack Software Engineer**
-
 Email: electrachong [at] gmail   
-
-Twitter: [@electra_chong](https://twitter.com/electra_chong) | LinkedIn:
-
-[electrachong](https://www.linkedin.com/in/electrachong) | Github: [electrachong](https://github.com/electrachong)
+Twitter: [@electra_chong](https://twitter.com/electra_chong) &#x2666; LinkedIn:
+[electrachong](https://www.linkedin.com/in/electrachong) &#x2666; Github: [electrachong](https://github.com/electrachong)
 
 ## Education
 January 2016 - Current
@@ -20,7 +17,7 @@ January 2016 - Current
 August 2011 - July 2016
 **Scripps College, Claremont, CA** - *Linguistics, B.A.*
 
-Projects
+## Projects
 
 - **(Front-end) [Twitter Clone](http://jellycube.space/twitter-clone/index.php)** - Build the front-end for a mock social media platform using flexboxes, PHP and JavaScript with a partner.  
 - **(Docker / API) [Pokélog](https://github.com/electrachong/pokelog)** - A simple web diary built in a Docker container using Flask, for a Docker-sponsored 12-hour hackathon.  
