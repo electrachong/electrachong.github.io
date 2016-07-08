@@ -1,0 +1,9 @@
+---
+layout: post
+section: devlog
+title: Firewalls and MySQL Remote Access
+---
+
+One of the first tasks in the [AirBnB-clone web project](https://electrachong.github.io/logs/2016-7-6-hashtables-c/) is to install MySQL and make sure port 3306 is open on our production servers to communication from the school and public IP addresses. MySQL uses port 3306 by default for remote communications.
+
+Actually.. we were supposed to have created firewalls for our servers in one of the prior sysadmin/devops projects a week or two ago. That was one of the projects I didn't fully complete -- I think I quickly ran through a tutorial to set up iptables on the linux server, but I didn't test it afterwards to make sure it worked. In fact, if my memory serves me right, I had it running for long enough to know that the rules I set up were somehow interfering with my bind/dns name server processes, causing my website domain (this same one, if you're viewing jellycube.space) to go down. (Thanks, PagerDuty). After that
