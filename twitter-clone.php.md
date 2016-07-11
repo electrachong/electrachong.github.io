@@ -1,5 +1,5 @@
 ---
 title: nomz.
 redirect_to:
-  - twitter-clone.jellycube.space
+  - https://twitter-clone.jellycube.space
 ---
