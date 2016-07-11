@@ -1,4 +1,1 @@
-type: CNAME
-host: www.jellycube.space
-answer: electrachong.github.io
-TTL: 300
+www.jellycube.space
