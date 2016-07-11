@@ -4,6 +4,6 @@ section: projects
 permalink: /projects/
 ---
 
-* [nomz.](http://jellycube.space/twitter-clone/index.php) (a twitter clone project)
-* [josei beat](http://jellycube.space/josei-beat/)
+* [nomz.](https://twitter-clone.jellycube.space) (a twitter clone project)
+* [josei beat](https://josei-beat.jellycube.space)
 * [pokélog](https://github.com/electrachong/pokelog) (formerly pokédiary)
