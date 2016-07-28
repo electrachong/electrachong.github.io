@@ -18,11 +18,11 @@ Right now, I'm feeling quite a bit behind in developing the API for the team Air
  
 ## Things I want to do
  Anyway, there's a lot that I want to do. I was reading a book about preparing for whiteboarding algorithms, and it made me think of all the things I would need to do to be properly prepared for interviews.  
-  - I need to spend time practicing algorithms, which which I'm not familiar with exception of the low-level problems and data structures we've been introduced to in the low-level track.  
-  - I need to spend some time to systemetically prepare for interviews: knowing in-detail what I could say about my technical projects, how I introduce myself.  
-  - I also need to be able to research the companies I would interview for, so I can ask specific questions about their technology problems, as well as know the backgrounds of people I might speak to.  
-  - I actually want to spend some time learning about my interests: graphics progrmaming, Lua, the pros/cons of langauges I'm interested in, so I can speak about them.  
-  - Of course, I want to finish editing the Jekyll theme for this website, and work on my other projects (pokelog, Josei Beat, twitter clone...)  
+  * I need to spend time practicing algorithms, which which I'm not familiar with exception of the low-level problems and data structures we've been introduced to in the low-level track.  
+  * I need to spend some time to systemetically prepare for interviews: knowing in-detail what I could say about my technical projects, how I introduce myself.  
+  * I also need to be able to research the companies I would interview for, so I can ask specific questions about their technology problems, as well as know the backgrounds of people I might speak to.  
+  * I actually want to spend some time learning about my interests: graphics progrmaming, Lua, the pros/cons of langauges I'm interested in, so I can speak about them.  
+  * Of course, I want to finish editing the Jekyll theme for this website, and work on my other projects (pokelog, Josei Beat, twitter clone...)  
  
  As discussed above, I struggle with wanting to do lots of things and focusing on what has my imperative at the moment. Hopefully I can think of some strategies to address this and write about it for my next log.
  
