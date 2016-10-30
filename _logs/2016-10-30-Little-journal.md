@@ -19,7 +19,8 @@ As a side note, the content of these development logs tend to be somewhat journa
 ----------
 Summary: My most immediate goal is to develop my focus.  
 More thoughts: I've grown fond of the unique personalities on my team.  
-It's nice to work closely with important people in the team/company, and have access to their knowledge and experience.
+It's nice to work closely with important people in the team/company, and have access to their knowledge and experience.  
 I'd like to write some lists of things I learned that I didn't already know from Holberton, and list some resources I've used as a beginner to brush up on Node.  
+I'd like to write a little bit more about the interesting problems at Scality, my company, that I get to learn about.  
 ** I also appreciate that despite not being a tech giant, my company offers decent benefits and a place to work (sports, nice snacks, a view, a unique culture, and travel). I don't know that I would find the same culture any where else.  
 ** There are some more things to list about how I adjusted to work and getting a handle on my feelings about it, perhaps as a private entry or in conversation with friends.  
