@@ -17,6 +17,7 @@ Other than that, my company has a sports benefits program and I'm starting skati
 As a side note, the content of these development logs tend to be somewhat journal-like in nature, so I think that when I develop this site, I might include them in my blog section and just set a filter by tag to pull some more work-related log-like entries into this section. My initial inclination was to divorce more professional content (tutorials, summaries of projects) from reflective pieces, and enforce a clean separation of professional and personal identities, but it seems I have a habit of being reflective and writing lengthy ruminations by nature, which makes it hard to enforce such a clean separation. And maybe it's OK not to compartmentalize so much.
 
 ----------
+Summary: My most immediate goal is to develop my focus.
 More thoughts: I've grown fond of the unique personalities on my team.  
 It's nice to work closely with important people in the team/company, and have access to their knowledge and experience.
 I'd like to write some lists of things I learned that I didn't already know from Holberton, and list some resources I've used as a beginner to brush up on Node.  
